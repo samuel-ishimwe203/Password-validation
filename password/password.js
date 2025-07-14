@@ -1,6 +1,5 @@
 
-
-    const btn=document.getElementById('btn')
+const btn=document.getElementById('btn')
     btn.addEventListener('click',()=>{
         const inp=document.getElementById('password')
          const values=inp.value
